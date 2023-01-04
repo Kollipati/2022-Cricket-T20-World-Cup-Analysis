@@ -16,57 +16,48 @@ Link to [Demo Video](https://www.linkedin.com/posts/vamshikollipati_dataanalysis
 
 ## Mock-up Dashboards:
 <p align="center">
-    <img width="740" alt="mockup img" src="https://github.com/Kollipati/2022-Cricket-T20-World-Cup-Analysis/blob/main/Media/Mockup1.png">
+<img width="635" alt="Mockup1" src="https://user-images.githubusercontent.com/89390696/210487813-4ba67e6f-7c9e-40b1-943e-3d502d7fa76b.png">
 </p>
 
 <p align="center">
-    <img width="740" alt="mockup img" src="https://github.com/Kollipati/2022-Cricket-T20-World-Cup-Analysis/blob/main/Media/m2.png">
+    <img width="635" alt="m2" src="https://user-images.githubusercontent.com/89390696/210487791-8d9455c3-413c-4dd9-bb62-5b349b16a7b2.png">
 </p>
 
 <p align="center">
-    <img width="740" alt="mockup img" src="https://github.com/Kollipati/2022-Cricket-T20-World-Cup-Analysis/blob/main/Media/m3.png">
+    <img width="632" alt="m3" src="https://user-images.githubusercontent.com/89390696/210487805-87119086-0989-4229-a026-43024b94cde2.png">
 </p>
 
 <p align="center">
-    <img width="740" alt="mockup img" src="https://github.com/Kollipati/2022-Cricket-T20-World-Cup-Analysis/blob/main/Media/m4.png">
+    <img width="632" alt="m4" src="https://user-images.githubusercontent.com/89390696/210487811-eb794e4c-4b9a-4e4f-9266-f3908e081d01.png">
 </p>
-
 
 ## Data Model
 
 <p align="center">
-    <img width="581" alt="model" src="https://github.com/Kollipati/2022-Cricket-T20-World-Cup-Analysis/blob/main/Media/Screenshot_20230104_095817.png">
+    <img width="401" alt="Screenshot_20230104_095817" src="https://user-images.githubusercontent.com/89390696/210487999-7f5af153-dce7-4a9c-8e0b-cc8835e84e73.png">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img width="675" alt="Telecom-1" src="https://user-images.githubusercontent.com/89390696/206885300-6aeda4a7-d5dc-4ec9-9d5c-0d10713f5d3a.png">
+    <img width="675" alt="Cric-1" src="https://user-images.githubusercontent.com/89390696/210488168-7ee8fbc2-5edf-41f6-8aeb-7f5cb393f5d5.png">
 </p>
 
 ## Filters View
 
 <p align="center">
-     <img width="677" alt="telecom-2" src="https://user-images.githubusercontent.com/89390696/206885303-c8031a95-7ed1-46be-9dc8-1470628e8308.png">
+     <img width="677" alt="Cric-2" src="https://user-images.githubusercontent.com/89390696/210488240-e1bca17d-4ffe-41f9-9ad7-89f03eeeca88.png">
 </p>
 
-
+## Final 11
 <p align="center">
-   <img width="677" alt="telecom-3" src="https://user-images.githubusercontent.com/89390696/206885305-56f3814a-357f-4f42-a0b3-f3c1e2e5b7ee.png">
+   <img width="680" alt="Cric-3" src="https://user-images.githubusercontent.com/89390696/210488354-620114e1-4df9-44c2-a49c-0f25a274f3c8.png">
 </p>
 
-## Before And After 5G
+## On Hover
 <p align="center">
-   <img width="680" alt="telecom-4" src="https://user-images.githubusercontent.com/89390696/206885306-0958291d-c4aa-41ac-8054-7ba3351e52b4.png">
+   <img width="680" alt="Cric-3" src="https://user-images.githubusercontent.com/89390696/210488488-6fc3e5c1-4526-4bf7-8882-51f678004270.png">
 </p>
 
-## Before 5G
-<p align="center">
-   <img width="676" alt="telecom-5" src="https://user-images.githubusercontent.com/89390696/206885310-257fc43a-f157-4b17-8e40-deb665a8303b.png">
-</p>
 
-## After 5G
-<p align="center">
-   <img width="677" alt="telecom6" src="https://user-images.githubusercontent.com/89390696/206885311-9f2d8020-cf8e-4cf6-92b1-8c094603fecd.png">
-</p>
