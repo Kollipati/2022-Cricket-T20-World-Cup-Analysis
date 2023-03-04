@@ -1,6 +1,6 @@
 # 2022-Cricket-T20-World-Cup-Analysis  ~ Microsoft PowerBI 
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/analysis-6)
+Link to [Interactive Dashboard](https://www.novypro.com/project/cricket-analysis-2)
 
 Link to [Demo Video](https://www.linkedin.com/posts/vamshikollipati_dataanalysis-pandas-python-activity-7015592939640819712-IAEV?utm_source=share&utm_medium=member_desktop)
 
